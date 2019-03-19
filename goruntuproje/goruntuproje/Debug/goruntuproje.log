@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+c:\users\daflan-pc\documents\visual studio 2017\projects\goruntuproje\goruntuproje\MyForm.h(299): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\visual studio 2017\projects\goruntuproje\goruntuproje\MyForm.h(378): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\visual studio 2017\projects\goruntuproje\goruntuproje\MyForm.h(427): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\visual studio 2017\projects\goruntuproje\goruntuproje\MyForm.h(442): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\visual studio 2017\projects\goruntuproje\goruntuproje\MyForm.h(532): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\visual studio 2017\projects\goruntuproje\goruntuproje\MyForm.h(602): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\visual studio 2017\projects\goruntuproje\goruntuproje\MyForm.h(605): warning C4018: '<=': signed/unsigned mismatch
+c:\users\daflan-pc\documents\visual studio 2017\projects\goruntuproje\goruntuproje\MyForm.h(611): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\visual studio 2017\projects\goruntuproje\goruntuproje\MyForm.h(658): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\visual studio 2017\projects\goruntuproje\goruntuproje\MyForm.h(670): warning C4018: '<': signed/unsigned mismatch
+c:\users\daflan-pc\documents\visual studio 2017\projects\goruntuproje\goruntuproje\MyForm.h(813): warning C4018: '<': signed/unsigned mismatch
+MyForm.cpp(8): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  goruntuproje.vcxproj -> C:\Users\daflan-pc\Documents\Visual Studio 2017\Projects\goruntuproje\Debug\goruntuproje.exe
